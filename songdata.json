@@ -1,0 +1,14 @@
+{
+	"song": {
+		"player1": "bf",
+		"gfVersion": "gf",
+		"player2": "dad",
+		"splashSkin": "noteSplashes",
+		"song": "AutoChartTest",
+		"needsVoices": false,
+		"arrowSkin": "",
+		"stage": "stage",
+		"validScore": true,
+		"speed": 1
+	}
+}
