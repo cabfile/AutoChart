@@ -12,5 +12,5 @@ Note that it is currently not as stable as it may seem.
 8. ?????
 9. PROFIT!!!
 # Known issues
-* The first note in a section sometimes disappears
+* The first note in sections sometimes disappears
 * Chart desynchronization on spamtracks
