@@ -13,4 +13,4 @@ Note that it is currently not as stable as it may seem.
 9. PROFIT!!!
 # Known issues
 * The first note in sections sometimes disappears
-* Chart desynchronization on spamtracks
+* ~Chart desynchronization on spamtracks~ Apparently only happens [here](https://jsm925.github.io/FunkinChart/)... Still probably an issue
